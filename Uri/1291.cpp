@@ -1,7 +1,8 @@
 // https://www.urionlinejudge.com.br/judge/pt/problems/view/1291
 
-#include <bits/stdc++.h>
 using namespace std;
+#include <bits/stdc++.h>
+#define M_PI 3.14159265358979323846
 
 int main()
 {
