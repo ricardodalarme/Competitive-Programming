@@ -25,5 +25,5 @@ int main() {
             sort(b.begin(), b.end());
             cout << b << endl;
         }
-    }
-}
+    } 
+} 

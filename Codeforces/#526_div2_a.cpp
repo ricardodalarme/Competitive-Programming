@@ -22,5 +22,5 @@ int main() {
         ans = min(ans, ans2); 
     }
     printf("%d\n", ans);
-    return 0;
+    return 0; 
 }

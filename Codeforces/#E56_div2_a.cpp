@@ -13,5 +13,5 @@ int main() {
         cin >>b;
         ans = (b-1) /7+1;
         cout << ans << endl;
-    }
-}
+    } 
+} 

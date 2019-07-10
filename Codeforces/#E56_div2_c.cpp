@@ -31,7 +31,7 @@ int main() {
         d[i] = min;
         d[a -i-1] = max;
     }
- 
+  
     for (int i = 0 ; i < a; i++) printf("%lld ", d[i]);
     printf("\n");
-}
+} 
